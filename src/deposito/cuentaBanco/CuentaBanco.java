@@ -4,6 +4,8 @@ package cuentaBanco;
  * @author David Esteban Alesón
  */
 public class CuentaBanco {
+	// realizamos un cambio cualquiera para hacer un segundo commit
+	// en nuestro git
 
 
     private String nombre;
